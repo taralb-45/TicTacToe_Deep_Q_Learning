@@ -23,7 +23,7 @@ Current State (S), Action Taken (A), Reward (R), Next State(S'), Game State (A).
 
 The Game State stores data about completion of game.<br/>
 
-![Deep Q Learning Algorithm](https://www.researchgate.net/publication/345893622/figure/fig2/AS:1083898943545355@1635433054806/Flow-chart-of-the-deep-Q-learning-network.jpg)<br/>
+![Deep Q Learning Algorithm](https://github.com/taralb-45/TicTacToe_Deep_Q_Learning/blob/main/media/img.jpg)<br/>
 
 The training is divided into 20 iterations of 20,000 games. <br/>
 All interations have varied values of epsilon, decay and firstRandom variables. <br/>
@@ -36,7 +36,7 @@ After the training it has learned to play fairly well against player.<br/>
 But I think with more tuning of variables and more iterations, there is still room for improvement. <br/>
 
 # Gameplay
-
+![gameplay.gif](https://github.com/taralb-45/TicTacToe_Deep_Q_Learning/blob/main/media/gif.gif)<br/>
 
 # Files
 I have included all 4 networks which I found to be best performing. <br/>
