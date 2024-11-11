@@ -36,7 +36,7 @@ After the training it has learned to play fairly well against player.<br/>
 But I think with more tuning of variables and more iterations, there is still room for improvement. <br/>
 
 # Gameplay
-![gameplay.gif](https://github.com/taralb-45/TicTacToe_Deep_Q_Learning/blob/main/media/gif.gif)<br/>
+![gameplay.gif](https://github.com/taralb-45/TicTacToe_Deep_Q_Learning/blob/main/media/gameplay.gif)<br/>
 
 # Files
 I have included all 4 networks which I found to be best performing. <br/>
